@@ -1,0 +1,1 @@
+# This repo contains all the projects I have build on-course The Odin Project.
